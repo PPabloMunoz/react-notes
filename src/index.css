@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(31 41 55);
+}
+
+.card_body {
+  word-wrap: break-word;
+}
